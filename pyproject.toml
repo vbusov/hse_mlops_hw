@@ -3,7 +3,7 @@ name = "hse-mlops-hw"
 version = "0.1.0"
 description = "MLOps homework project"
 authors = ["Vlad Busov <busov.dev@gmail.com>"]
-license = "MIT License"
+license = "MIT"
 readme = "README.md"
 
 [tool.poetry.dependencies]
